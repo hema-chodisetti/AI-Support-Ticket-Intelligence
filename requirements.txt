@@ -1,0 +1,8 @@
+transformers
+datasets
+accelerate
+sentence-transformers
+sentencepiece
+torch
+gradio
+pandas
